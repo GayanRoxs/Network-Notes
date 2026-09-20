@@ -222,7 +222,7 @@ hostname SW30
 vlan 30
  name LAN30
  exit
-interface fastEthernet0/1
+interface range fastEthernet0/1-10
  description PC2
  switchport mode access
  switchport access vlan 30

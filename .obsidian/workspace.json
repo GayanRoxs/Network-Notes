@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Cisco Packet Tracer – Three-Router OSPF Lab"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
+                "file": "Practical with Sample Code and Configs/Spanning-Tree Protocal/Spanning Tree Protocol - Four-Switch Packet Tracer Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cisco Packet Tracer – Three-Router OSPF Lab"
+              "title": "Spanning Tree Protocol - Four-Switch Packet Tracer Lab"
             }
           }
         ],
@@ -216,12 +216,17 @@
   },
   "active": "1ce203ac553d9c39",
   "lastOpenFiles": [
-    "05 - Step-by-Step Configurations/08 - WAN, VPN, and Wireless/39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step.md",
-    "README.md",
     "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
+    "05 - Step-by-Step Configurations/08 - WAN, VPN, and Wireless/39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step.md",
     "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Topology.png",
-    "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
     "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Original Topology.png",
+    "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
+    "02 - Practice Labs/Lab 01 - Basic Router and Switch Configuration.md",
+    "02 - Practice Labs/Lab Dashboard.md",
+    "05 - Step-by-Step Configurations/01 - Device Foundations/01 - Cisco Router Basic Configuration - Step by Step.md",
+    "05 - Step-by-Step Configurations/01 - Device Foundations/Device Foundations Configuration Guide.md",
+    "05 - Step-by-Step Configurations/Configuration Library Dashboard.md",
+    "README.md",
     "Practical with Sample Code and Configs/Three-Router Static Routing Lab/Cisco Packet Tracer – Three-Router Static Routing Lab.md",
     "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Lab - Configuration Guide.md",
     "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Lab.pkt",
@@ -231,7 +236,6 @@
     "01 - Learn/05 - Network Services/Network Services Guide.md",
     "00 - Start Here/Student Dashboard.md",
     "00 - Start Here/Networking Dashboard.md",
-    "05 - Step-by-Step Configurations/Configuration Library Dashboard.md",
     "05 - Step-by-Step Configurations/03 - Routing Protocols/14 - IPv4 - Internet Protocol Version 4 Static, Default, and Floating Static Routing - Step by Step.md",
     "Practical with Sample Code and Configs/Cisco Packet Tracer – Three-Router Static Routing Lab.md",
     "Practical with Sample Code and Configs/Three-Router Static Routing Lab.pkt~",
@@ -245,16 +249,11 @@
     "Images and Source",
     "New folder",
     "05 - Step-by-Step Configurations/02 - Switching and Inter-VLAN Routing/08 - Multilayer Switch Inter-VLAN Routing - Step by Step.md",
-    "05 - Step-by-Step Configurations/01 - Device Foundations/Device Foundations Configuration Guide.md",
     "05 - Step-by-Step Configurations/04 - Network Services/22 - NTP - Network Time Protocol - Step by Step.md",
     "03 - Teaching Toolkit/03 - Viva Questions/NTP Viva Questions.md",
     "05 - Step-by-Step Configurations/07 - Monitoring and Management/35 - Syslog Central Logging - Step by Step.md",
     "05 - Step-by-Step Configurations/06 - High Availability/32A - GLBP - Gateway Load Balancing Protocol - Step by Step.md",
     "05 - Step-by-Step Configurations/05 - Security/30A - Telnet Legacy Remote Management - Step by Step.md",
-    "05 - Step-by-Step Configurations/10 - Integrated Enterprise Configuration/Integrated Enterprise Configuration Guide.md",
-    "05 - Step-by-Step Configurations/09 - Internet Protocol Version 6 (IPv6)/42 - SLAAC - Stateless Address Autoconfiguration with DHCPv6 - Step by Step.md",
-    "05 - Step-by-Step Configurations/07 - Monitoring and Management/33 - SNMPv2c - Simple Network Management Protocol Version 2c - Step by Step.md",
-    "01 - Learn/05 - Network Services/Cisco NTP Configuration.md",
     "05 - Step-by-Step Configurations/07 - Monitoring and Management",
     "05 - Step-by-Step Configurations/06 - High Availability"
   ]
