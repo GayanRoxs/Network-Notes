@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "3551a49c71fe6d75",
+    "id": "f79c2f285aab24bf",
     "type": "split",
     "children": [
       {
-        "id": "809e1a66850f34c9",
+        "id": "615f9b1b03ea1382",
         "type": "tabs",
         "children": [
           {
-            "id": "083d1d088ce15a6d",
+            "id": "e0cd002f13eeae8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
+                "file": "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HSRP Gateway Redundancy Lab - Configuration Guide"
+              "title": "Cisco Packet Tracer – Three-Router OSPF Lab"
+            }
+          },
+          {
+            "id": "724c65051b2a2f29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practical with Sample Code and Configs/Multilayer-Switch-Redundancy-DHCP-EtherChannel/Multilayer-Switch-Redundancy-DHCP-EtherChannel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multilayer-Switch-Redundancy-DHCP-EtherChannel"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "700944ec46f4a0b3",
+    "id": "fe77717a7d1dc740",
     "type": "split",
     "children": [
       {
-        "id": "4c673b9b6a9e2b6e",
+        "id": "ca1a9e77e415e10c",
         "type": "tabs",
         "children": [
           {
-            "id": "9aa0b393691ff831",
+            "id": "c26bb01c86d4cd2b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +65,7 @@
             }
           },
           {
-            "id": "f84becd533145214",
+            "id": "6b5d21f5eb221ffb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +82,7 @@
             }
           },
           {
-            "id": "793f1c3e2f60dab7",
+            "id": "06d0c617d1d0b3d5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,20 +98,20 @@
     "width": 300
   },
   "right": {
-    "id": "76223063214a702b",
+    "id": "9237965d16e126f2",
     "type": "split",
     "children": [
       {
-        "id": "9ed1ec9d9808cb6c",
+        "id": "b34aade1e9568431",
         "type": "tabs",
         "children": [
           {
-            "id": "9780e7933ce4939b",
+            "id": "9e0e60b4dc9b6207",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,25 +121,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HSRP Gateway Redundancy Lab - Configuration Guide"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "068494dfa2498b25",
+            "id": "9a965290ffb5cbb2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HSRP Gateway Redundancy Lab - Configuration Guide"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "d5a19f672aff20ed",
+            "id": "fc1a7a14b863dedd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +154,7 @@
             }
           },
           {
-            "id": "b4c25848362f637d",
+            "id": "c7b81f0880793431",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,18 +168,18 @@
             }
           },
           {
-            "id": "18245b48d5bd86cf",
+            "id": "62b62ed09dc899ac",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HSRP Gateway Redundancy Lab - Configuration Guide"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -185,8 +200,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "083d1d088ce15a6d",
+  "active": "724c65051b2a2f29",
   "lastOpenFiles": [
-    "Networking/03 - Teaching Toolkit/01 - Configuration Templates/AAA Template.md"
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Topology.png",
+    "Untitled.canvas",
+    "05 - Step-by-Step Configurations/08 - WAN, VPN, and Wireless/39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step.md",
+    "05 - Step-by-Step Configurations/02 - Switching and Inter-VLAN Routing/09 - STP - Spanning Tree Protocol Root Bridge Configuration - Step by Step.md",
+    "Practical with Sample Code and Configs/Spanning-Tree Protocal/Spanning Tree Protocol - Four-Switch Packet Tracer Lab.md",
+    "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Original Topology.png",
+    "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
+    "02 - Practice Labs/Lab 01 - Basic Router and Switch Configuration.md",
+    "02 - Practice Labs/Lab Dashboard.md",
+    "05 - Step-by-Step Configurations/01 - Device Foundations/01 - Cisco Router Basic Configuration - Step by Step.md",
+    "05 - Step-by-Step Configurations/01 - Device Foundations/Device Foundations Configuration Guide.md",
+    "05 - Step-by-Step Configurations/Configuration Library Dashboard.md",
+    "README.md",
+    "Practical with Sample Code and Configs/Three-Router Static Routing Lab/Cisco Packet Tracer – Three-Router Static Routing Lab.md",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Lab - Configuration Guide.md",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Lab.pkt",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/HSRP Gateway Redundancy Lab.pkt",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Screenshot 2026-09-08 101507.png",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab",
+    "01 - Learn/05 - Network Services/Network Services Guide.md",
+    "00 - Start Here/Student Dashboard.md",
+    "00 - Start Here/Networking Dashboard.md",
+    "05 - Step-by-Step Configurations/03 - Routing Protocols/14 - IPv4 - Internet Protocol Version 4 Static, Default, and Floating Static Routing - Step by Step.md",
+    "Practical with Sample Code and Configs/Cisco Packet Tracer – Three-Router Static Routing Lab.md",
+    "Practical with Sample Code and Configs/Three-Router Static Routing Lab.pkt~",
+    "Practical with Sample Code and Configs/Three-Router Static Routing Lab.pkt",
+    "02 - Practice Labs/Lab 08 - Static Routing.md",
+    "05 - Step-by-Step Configurations/03 - Routing Protocols/Routing Protocols Configuration Guide.md",
+    "Practical with Sample Code and Configs",
+    "05 - Step-by-Step Configurations/02 - Switching and Inter-VLAN Routing/10 - RSTP - Rapid Spanning Tree Protocol with PortFast and BPDU Guard - Step by Step.md",
+    "Images and Source/Screenshot 2026-08-18 110814.png",
+    "Images and Source",
+    "New folder",
+    "05 - Step-by-Step Configurations/02 - Switching and Inter-VLAN Routing/08 - Multilayer Switch Inter-VLAN Routing - Step by Step.md",
+    "05 - Step-by-Step Configurations/04 - Network Services/22 - NTP - Network Time Protocol - Step by Step.md",
+    "03 - Teaching Toolkit/03 - Viva Questions/NTP Viva Questions.md",
+    "05 - Step-by-Step Configurations/07 - Monitoring and Management/35 - Syslog Central Logging - Step by Step.md",
+    "05 - Step-by-Step Configurations/07 - Monitoring and Management",
+    "05 - Step-by-Step Configurations/06 - High Availability"
   ]
 }
