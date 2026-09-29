@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Step-by-Step Configurations/08 - WAN, VPN, and Wireless/39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step.md",
+                "file": "Practical with Sample Code and Configs/Multilayer-Switch-Redundancy-DHCP-EtherChannel/Multilayer-Switch-Redundancy-DHCP-EtherChannel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step"
-            }
-          },
-          {
-            "id": "1ce203ac553d9c39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practical with Sample Code and Configs/Spanning-Tree Protocal/Spanning Tree Protocol - Four-Switch Packet Tracer Lab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spanning Tree Protocol - Four-Switch Packet Tracer Lab"
+              "title": "Multilayer-Switch-Redundancy-DHCP-EtherChannel"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,11 +200,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "1ce203ac553d9c39",
+  "active": "724c65051b2a2f29",
   "lastOpenFiles": [
     "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
-    "05 - Step-by-Step Configurations/08 - WAN, VPN, and Wireless/39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step.md",
     "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Topology.png",
+    "Untitled.canvas",
+    "05 - Step-by-Step Configurations/08 - WAN, VPN, and Wireless/39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step.md",
+    "05 - Step-by-Step Configurations/02 - Switching and Inter-VLAN Routing/09 - STP - Spanning Tree Protocol Root Bridge Configuration - Step by Step.md",
+    "Practical with Sample Code and Configs/Spanning-Tree Protocal/Spanning Tree Protocol - Four-Switch Packet Tracer Lab.md",
     "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Original Topology.png",
     "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
     "02 - Practice Labs/Lab 01 - Basic Router and Switch Configuration.md",
@@ -242,7 +231,6 @@
     "Practical with Sample Code and Configs/Three-Router Static Routing Lab.pkt",
     "02 - Practice Labs/Lab 08 - Static Routing.md",
     "05 - Step-by-Step Configurations/03 - Routing Protocols/Routing Protocols Configuration Guide.md",
-    "Untitled.canvas",
     "Practical with Sample Code and Configs",
     "05 - Step-by-Step Configurations/02 - Switching and Inter-VLAN Routing/10 - RSTP - Rapid Spanning Tree Protocol with PortFast and BPDU Guard - Step by Step.md",
     "Images and Source/Screenshot 2026-08-18 110814.png",
@@ -252,8 +240,6 @@
     "05 - Step-by-Step Configurations/04 - Network Services/22 - NTP - Network Time Protocol - Step by Step.md",
     "03 - Teaching Toolkit/03 - Viva Questions/NTP Viva Questions.md",
     "05 - Step-by-Step Configurations/07 - Monitoring and Management/35 - Syslog Central Logging - Step by Step.md",
-    "05 - Step-by-Step Configurations/06 - High Availability/32A - GLBP - Gateway Load Balancing Protocol - Step by Step.md",
-    "05 - Step-by-Step Configurations/05 - Security/30A - Telnet Legacy Remote Management - Step by Step.md",
     "05 - Step-by-Step Configurations/07 - Monitoring and Management",
     "05 - Step-by-Step Configurations/06 - High Availability"
   ]
