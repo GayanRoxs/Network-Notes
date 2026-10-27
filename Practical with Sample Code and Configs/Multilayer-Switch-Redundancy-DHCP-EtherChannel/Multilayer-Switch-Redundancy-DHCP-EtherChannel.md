@@ -113,13 +113,13 @@ The `.1` HSRP VIP, `.2` MSW1 SVI, `.3` MSW2 SVI, and reserved addresses `.4-.9` 
 
 ## 5. Redundancy Design
 
-| Function | VLAN 10 | VLAN 20 | VLAN 30 |
-|---|---|---|---|
-| HSRP active | MSW1, priority `110` | MSW1, priority `110` | MSW2, priority `110` |
-| HSRP standby | MSW2, priority `100` | MSW2, priority `100` | MSW1, priority `100` |
-| Rapid-PVST root primary | MSW1 | MSW1 | MSW2 |
-| Rapid-PVST root secondary | MSW2 | MSW2 | MSW1 |
-| Tracked local uplink | `Gi1/0/1` | `Gi1/0/2` | `Gi1/0/3` |
+| Function                  | VLAN 10              | VLAN 20              | VLAN 30              |
+| ------------------------- | -------------------- | -------------------- | -------------------- |
+| HSRP active               | MSW1, priority `110` | MSW1, priority `110` | MSW2, priority `110` |
+| HSRP standby              | MSW2, priority `100` | MSW2, priority `100` | MSW1, priority `100` |
+| Rapid-PVST root primary   | MSW1                 | MSW1                 | MSW2                 |
+| Rapid-PVST root secondary | MSW2                 | MSW2                 | MSW1                 |
+| Tracked local uplink      | `Gi1/0/1`            | `Gi1/0/2`            | `Gi1/0/3`            |
 
 - `preempt` lets the preferred multilayer switch reclaim the active HSRP role after recovery.
 - A tracked direct access-switch uplink subtracts `20` from the local HSRP priority when it fails.
@@ -280,7 +280,7 @@ vlan 20
 exit
 vlan 30
  name USERS_VLAN30
-exit
+exit 
 
 interface GigabitEthernet1/0/1
  description TRUNK_TO_SW-VLAN10_Gi0/2
